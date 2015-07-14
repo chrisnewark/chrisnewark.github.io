@@ -1,6 +1,7 @@
 ---
 layout: default
+title: Test
 ---
 
-# TEST
+# {{page.title}}
 This is a test.
