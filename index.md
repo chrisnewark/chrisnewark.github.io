@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Test
+name: Home
+title: Events
 ---
 
 # {{page.title}}
