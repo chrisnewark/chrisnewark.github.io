@@ -4,7 +4,7 @@
             <ul class="nav navbar-nav">
                 {% assign pages = site.pages | sort:"navigation-position"  %}
                 {% for p in pages %}
-                    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
                 {% endfor %}
                 <!--<li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>-->
             </ul>
