@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Events
-navigation-title: Home
 ---
 
 # {{page.title}}

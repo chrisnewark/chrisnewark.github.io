@@ -1,6 +1,5 @@
 ---
 layout: default
-name: About Us
 title: About Us
 ---
 
