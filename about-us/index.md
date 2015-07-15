@@ -4,11 +4,14 @@ title: About Us
 navigation-position: 2
 ---
 
-| POST  | NAME OF HOLDER |
-| ----- | -------------  |
-| President | Iain Presnell |
-| Chairperson |	Angela Newark |
-| Vice Chairperson	| Natalie Mann |
+| POST              | NAME OF HOLDER    |
+| :-----            | :-------------    |
+| President         | Iain Presnell     |
+| Chairperson       | Angela Newark     |
+| Vice Chairperson	| Natalie Mann      |
+
+
+
 Secretary	Ken Burkett
 Treasurer	Richard Dunn
 Cross Country Secretary	Angela Newark, Paul Hills
