@@ -4,7 +4,7 @@ title: About Us
 navigation-position: 2
 ---
 
-| POST                                          | NAME OF HOLDER            |
+| Post                                          | Name of Holder            |
 | :-----                                        | :-------------            |
 | President                                     | Iain Presnell             |
 | Chairperson                                   | Angela Newark             |
