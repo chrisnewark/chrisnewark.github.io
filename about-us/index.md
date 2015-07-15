@@ -9,7 +9,7 @@ navigation-position: 2
 | President         | Iain Presnell     |
 | Chairperson       | Angela Newark     |
 | Vice Chairperson	| Natalie Mann      |
-
+{: title="Blockquote title"}
 
 
 Secretary	Ken Burkett
