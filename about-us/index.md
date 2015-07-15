@@ -4,7 +4,6 @@ title: About Us
 navigation-position: 2
 ---
 
-
 | POST  | NAME OF HOLDER |
 | ----- | -------------  |
 | President | Iain Presnell |
