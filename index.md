@@ -11,6 +11,7 @@ navigation-position: 1
           <td>{{ event.date }}</td>
           <td>{{ event.title }}</td>
           <td>{{ event.location }}</td>
+            <td>{{ event.path }}</td>
         </tr>
         {% endfor %}
     </tbody>
