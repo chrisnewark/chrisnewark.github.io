@@ -9,9 +9,16 @@ navigation-position: 1
         {% for event in site.events %}
             {% if event.relative_path contains site.current_season %}
                 <tr>
-                  <td>{{ event.date }}</td>
-                  <td><a href="{{ event.url }}">{{ event.title }}</a></td>
-                  <td>{{ event.location }}</td>
+                    <td>{{ event.date }}</td>
+                    <td>
+                        {% assign content = event.content | strip_newlines %}
+                        {% if content == "" %}
+                            {{ event.title }}
+                        {% else %}
+                            <a href="{{ event.url }}">{{ event.title }}</a>
+                        {% endif %}                
+                    </td>
+                    <td>{{ event.location }}</td>
                 </tr>
             {% endif %}
         {% endfor %}
