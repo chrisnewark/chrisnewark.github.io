@@ -1,2 +1,3 @@
 collections:
-- events
+	events:
+		output: true
