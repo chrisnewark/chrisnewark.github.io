@@ -1,4 +1,7 @@
-﻿current_season: 14-15
+﻿current_school_year: 14-15
+current_season: summer
 collections:
     events:
+        output: true
+    districts:
         output: true

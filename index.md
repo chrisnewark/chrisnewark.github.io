@@ -8,7 +8,7 @@ navigation-position: 1
 <table class="table table-striped table-hover ">
     <tbody>
         {% for event in site.events %}
-            {% if event.relative_path contains site.current_season %}
+            {% if event.relative_path contains site.current_school_year %}
                 <tr>
                     <td>{{ event.date }}</td>
                     <td>
