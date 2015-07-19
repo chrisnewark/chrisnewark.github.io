@@ -10,7 +10,7 @@ navigation-position: 1
             {% if event.relative_path contains site.current_season %}
                 <tr>
                   <td>{{ event.date }}</td>
-                  <td>{{ event.title }}</td>
+                  <td><a href="{{ event.url }}">{{ event.title }}</a></td>
                   <td>{{ event.location }}</td>
                 </tr>
             {% endif %}
