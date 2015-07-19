@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Districts
+display-in-navigation: true
 navigation-position: 3
 ---
 

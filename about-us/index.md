@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Us
+display-in-navigation: true
 navigation-position: 2
 ---
 

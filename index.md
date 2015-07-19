@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Events
+display-in-navigation: true
 navigation-position: 1
 ---
 

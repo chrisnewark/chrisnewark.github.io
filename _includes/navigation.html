@@ -12,7 +12,7 @@
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" aria-expanded="false" style="height: 1px;">
             <ul class="nav navbar-nav">
-                {% assign pages = site.pages | sort:"navigation-position"  %}
+                {% assign pages = site.pages | sort:"navigation-position" | where:"display-in-navigation",true %}
                 {% for p in pages %}
                     <li><a href="{{ p.url }}">{{ p.title }}</a></li>
                 {% endfor %}

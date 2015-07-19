@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Entries
+display-in-navigation: true
 navigation-position: 4
 ---
 
