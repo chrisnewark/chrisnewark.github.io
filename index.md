@@ -4,4 +4,6 @@ title: Events
 navigation-position: 1
 ---
 
-This is a test. Test again
+{% for event in site.events %}
+  test
+{% endfor %}
