@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Test event
+title: Cross Country Schools Cup Regional
+location: Sevenoaks
 ---
 
 Test event
