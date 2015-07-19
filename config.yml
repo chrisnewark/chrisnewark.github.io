@@ -1,4 +1,3 @@
 collections:
 	events:
 		output: true
-		permalink: /events/
