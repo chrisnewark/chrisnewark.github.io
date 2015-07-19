@@ -3,11 +3,11 @@ layout: default
 title: Ashford & The Weald
 summer_manager: Tamzin Jarvis
 summer_manager-email: t.jarvis@homewood.kent.sch.uk
-winter_manager: 
-winter_manager-email: 
+winter_manager: Chris Nicholas
+winter_manager-email: CNicholas@thejohnwallisacademy.org
 ---
 
-## Ashford Affiliated Schools
+## Affiliated Schools
 
 - Ashford School
 - Highworth Grammar
