@@ -21,3 +21,5 @@ navigation-position: 2
         {% endfor %}
     </tbody>
 </table>
+
+<a href="/files/KSAA-Constitution-Rules-Revised-November-2014.pdf">KSAA Constitution & Rules - Revised November 2014</a>
