@@ -20,7 +20,7 @@ winter_manager-email: cbalsdon@kentcollege.co.uk
 - Simon Langton Grammar SfB
 - Simon Langton Grammar SfG
 - Spires Academy
-- St Anslem’s School
+- St Anslem's School
 - St Edmunds
 - The Abbey School
 - The Canterbury High School
