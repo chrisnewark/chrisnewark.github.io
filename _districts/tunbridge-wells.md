@@ -3,7 +3,7 @@ layout: default
 title: Tunbridge Wells
 summer_manager: Julie Goodge
 summer_manager-email: jgoodge72@gmail.com
-winter_manager: Julie Goodge
+winter_manager: Mrs. J. Goodge
 winter_manager-email: jgoodge72@gmail.com
 ---
 

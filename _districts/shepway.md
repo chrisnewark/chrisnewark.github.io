@@ -3,7 +3,7 @@ layout: default
 title: Shepway
 summer_manager: Contact your P.E. department for entry information
 summer_manager-email: 
-winter_manager: Chris Tinsley
+winter_manager: Mr. C. Tinsley
 winter_manager-email: ctinsley@BROCKHILL.KENT.SCH.UK
 ---
 

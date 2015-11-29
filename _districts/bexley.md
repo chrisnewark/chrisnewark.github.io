@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Bexley
-summer_manager: Niall Temple
+summer_manager: Mr. N.Temple
 summer_manager-email: MRTEMPLE@beths.bexley.sch.uk
-winter_manager: Niall Temple
+winter_manager: Mr. N.Temple
 winter_manager-email: MRTEMPLE@beths.bexley.sch.uk
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: Dartford & Gravesham
 summer_manager: Gary Jones
 summer_manager-email: GJones@dartfordgrammarschool.org.uk
-winter_manager: Andrew Pickett
+winter_manager: Mr. A. Pickett
 winter_manager-email: andrew.pickett@leighacademy.org.uk
 ---
 

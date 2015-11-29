@@ -3,7 +3,7 @@ layout: default
 title: Thanet
 summer_manager: Steve King
 summer_manager-email: sfk@slcuk.com
-winter_manager: Steve King
+winter_manager: Mr. S. King
 winter_manager-email: sfk@slcuk.com
 ---
 

@@ -3,8 +3,8 @@ layout: default
 title: St. Augustines & Canterbury
 summer_manager: Natalie Bonnywell
 summer_manager-email: nbonneywell@canterbury.kent.sch.uk
-winter_manager: Claire Balsdon
-winter_manager-email: cbalsdon@kentcollege.co.uk
+winter_manager: Mrs K. French
+winter_manager-email: kf@queenelizabeths.kent.sch.uk
 ---
 
 ## Affiliated Schools

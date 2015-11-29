@@ -3,7 +3,7 @@ layout: default
 title: Bromley
 summer_manager: Vikki Eason
 summer_manager-email: vikki.eason@newsteadwood.bromley.sch.uk
-winter_manager: Louise Philbrick
+winter_manager: Ms. L. Philbrick
 winter_manager-email: l.philbrick@darrickwood.bromley.sch.uk
 ---
 
