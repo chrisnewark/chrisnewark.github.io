@@ -9,6 +9,8 @@ location: Brockhill
 
 ### Brockhill Park School, Sandling Road, Saltwood, Hythe. CT21 4HL
 
+<a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAAProgramme2016-ForReview.pdf">List of entrants</a>
+
 **Entry**
 
 This is only by school nomination or district championships. District coordinators are responsible for selection decisions and submitting entries.
@@ -17,3 +19,5 @@ Please contact your P.E. department in the first instance if there is a query.
 Entries close 18th December 2015
 
 No new entries will be allowed on the day of competition. If in doubt about your entry please check with your district coordinator before travelling.
+
+**Reserve Date:**  Saturday 6th February 2016 at Brockhill Park School.
