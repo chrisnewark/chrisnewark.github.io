@@ -5,9 +5,9 @@ date: 23 January 2016
 location: Brockhill
 ---
 
-## KSAA Cross Country Championships Saturday 23rd January 2016
+### KSAA Cross Country Championships Saturday 23rd January 2016
 
-## Brockhill Park School, Sandling Road, Saltwood, Hythe. CT21 4HL
+### Brockhill Park School, Sandling Road, Saltwood, Hythe. CT21 4HL
 
 <a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAAProgramme2016-ForReview.pdf">List of entrants</a>
 
