@@ -15,7 +15,30 @@ location: Brockhill
   </div>
 </div>
 
-**Entry**
+#### Parking
+
+There is adequate parking at the school, but it is likely that not all cars will be accommodated. There will be some congestion during the day so please allow extra time. It is hoped stewards will be available to help, but please park carefully and with consideration for school property and local residents.
+
+Cars are parked at owners' risk. KSAA accept no responsibility.
+
+<span style="color: red;">**No dogs allowed on the school site.**</span>
+
+#### Race Times
+
+| Event                             | Time  | Course                    | Distance      |
+| ---                               |---    | ---                       |               |
+| Year 7 Girls                      | 11.00 | ABF ABCDE                 | 2550 Metres   |
+| Year 7 Boys                       | 11.20 | ACEF ABCDE                | 3000 Metres   |
+| Inter/Sen. Girls (Yr10+)          | 11.45 | ABF ACEF ABCDE            | 3750 Metres   |
+| Sen. Boys (Yr12/13)               | 12.15 | ACEF ABCDEF ABCDEF ABCDE  | 7040 Metres   |
+| Presentations and refreshments    |
+| Inter Boys (Yr10/11)              | 13.10 | ABCDEF ABCDEF ABCDE       | 5760 Metres   |
+| Jun. Girls (Yr8/9)                | 13.40 | ACEF ABCDE                | 3000 Metres   |
+| Jun. Boys (Yr8/9)                 | 14.05 | ABF ACEF ABCDE            | 3750 Metres   |
+{: class="table table-striped table-hover"}
+
+
+#### Entry
 
 This is only by school nomination or district championships. District coordinators are responsible for selection decisions and submitting entries.
 A list of entrants will appear on the website from 12th December until 18th December 2015. Amendments may be made during this period.
