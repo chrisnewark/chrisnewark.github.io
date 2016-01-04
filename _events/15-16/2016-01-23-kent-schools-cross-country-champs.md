@@ -10,9 +10,6 @@ location: Brockhill
 #### Brockhill Park School, Sandling Road, Saltwood, Hythe. CT21 4HL
 
 <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Panel info</h3>
-  </div>
   <div class="panel-body">
     <a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAAProgramme2016-ForReview.pdf">List of entrants</a>
   </div>
