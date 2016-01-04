@@ -21,8 +21,6 @@ There is adequate parking at the school, but it is likely that not all cars will
 
 Cars are parked at owners' risk. KSAA accept no responsibility.
 
-<span style="color: red;">**No dogs allowed on the school site.**</span>
-
 #### Race Times
 
 | Event                             | Time  | Course                    | Distance      |
@@ -37,6 +35,17 @@ Cars are parked at owners' risk. KSAA accept no responsibility.
 | Jun. Boys (Yr8/9)                 | 14.05 | ABF ACEF ABCDE            | 3750 Metres   |
 {: class="table table-striped table-hover"}
 
+#### The Course
+
+<a href="/images/events/15-16/2016-01-23-kent-schools-cross-country-champs/course-map.jpg" target="_blank">
+    <img src="/images/events/15-16/2016-01-23-kent-schools-cross-country-champs/course-map.jpg" style="max-width:100%;"/>
+</a>
+
+The course will be really suited to spikes/studs, as it is totally on grass, but can become very heavy going if wet.
+
+The course has to fit in around the schools pitches, and so it may be necessary to change parts of the course, especially the Start and Finish if ground conditions require.
+
+<span style="color: red;">**No dogs allowed on the school site.**</span>
 
 #### Entry
 
