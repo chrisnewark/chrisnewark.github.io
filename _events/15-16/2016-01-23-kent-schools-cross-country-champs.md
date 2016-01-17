@@ -17,9 +17,15 @@ location: Brockhill
 
 #### Parking
 
-There is adequate parking at the school, but it is likely that not all cars will be accommodated. There will be some congestion during the day so please allow extra time. It is hoped stewards will be available to help, but please park carefully and with consideration for school property and local residents.
+There is adequate parking at the school, but it is likely that not all cars will be accommodated. The road alongside the school is fairly narrow and is on a bus route. The station car park is approximately 1 mile away and the Country Park is next to the school, but charges apply at both. There will be some congestion during the day so please allow extra time. It is hoped stewards will be available to help, but please park carefully and with consideration for school property and local residents.
 
 Cars are parked at owners' risk. KSAA accept no responsibility.
+
+#### Please be aware
+
+If severe weather and / or ground conditions necessitate a postponement of the event, all district managers will be informed as soon as possible and a notice will appear on this site by Thursday 21st January.
+
+The reserve date is Saturday 6th February. The venue will remain the same.
 
 #### Race Times
 
@@ -41,9 +47,17 @@ Cars are parked at owners' risk. KSAA accept no responsibility.
     <img src="/images/events/15-16/2016-01-23-kent-schools-cross-country-champs/course-map.jpg" style="max-width:100%;"/>
 </a>
 
-The course will be really suited to spikes/studs, as it is totally on grass, but can become very heavy going if wet.
+The ground is currently holding up quite well although areas are very muddy and will get worse during the day.  Some changes to the course may occur where ground conditions are poor.
 
-The course has to fit in around the schools pitches, and so it may be necessary to change parts of the course, especially the Start and Finish if ground conditions require.
+It is strongly advised that all competitors ensure they have suitable footwear for what will be heavy conditions.
+
+#### School Premises
+
+Your co-operation is required to keep the school as clear of mud as possible. This also includes the car parks.
+
+The registration and refreshment area is a **mud free zone**.
+
+It would be very helpful if competitors and spectators bring a change of footwear.
 
 <span style="color: red;">**No dogs allowed on the school site.**</span>
 
