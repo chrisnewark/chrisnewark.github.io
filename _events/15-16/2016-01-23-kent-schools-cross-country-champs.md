@@ -10,9 +10,21 @@ location: Brockhill
 #### Brockhill Park School, Sandling Road, Saltwood, Hythe. CT21 4HL
 
 <div class="panel panel-info">
-  <div class="panel-body">
-    <a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAAProgramme2016-ForReview.pdf">List of entrants</a>
-  </div>
+    <div class="panel-heading">
+        <h3 class="panel-title">Results</h3>
+    </div>
+    <div class="panel-body">
+        <ul>
+            <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Year-7-Girls-Results.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Year-7-Boys-Results.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Junior-Girls-Results.pdf">Junior Girls</a></li>
+            <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Junior-Boys-Results.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Intermediate-Girls-Results.pdf">Intermediate Girls</a></li>
+            <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Intermediate-Boys-Results.pdf">Intermediate Boys</a></li>
+            <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Senior-Girls-Results.pdf">Senior Girls</a></li>
+            <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Senior-Boys-Results.pdf">Senior Boys</a></li>
+        </ul>
+    </div>
 </div>
 
 #### Parking
