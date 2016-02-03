@@ -4,11 +4,7 @@ title: Events
 display-in-navigation: true
 navigation-position: 1
 ---
-<p>
-{% for event in site.events %}
-{{ event.title }}. 
-{% endfor %}
-    </p>
+
 <table class="table table-striped table-hover ">
     <tbody>
         {% for event in site.events %}
