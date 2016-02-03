@@ -16,6 +16,7 @@ location: Brockhill
     <div class="panel-body">
         <ul>
             <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Year-7-Girls-Results-v2.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Year-7-Boys-Results-v3.pdf">Year 7 Boys</a></li>
             <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Junior-Girls-Results.pdf">Junior Girls</a></li>
             <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Junior-Boys-Results.pdf">Junior Boys</a></li>
             <li><a href="/files/events/15-16/2016-01-23-kent-schools-cross-country-champs/KSAA-2016-Cross-Country-Championships-Intermediate-Girls-Results-v2.pdf">Intermediate Girls</a></li>
