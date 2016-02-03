@@ -1,1 +1,1 @@
-gem update github-pages
+bundle update github-pages
