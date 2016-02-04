@@ -1,6 +1,6 @@
-﻿---
+---
 layout: default
 title: Inter-County Cross Country
-date: 06 February 2016
+date: 2016-02-06
 location: Bexhill
 ---
