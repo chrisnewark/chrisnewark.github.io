@@ -22,13 +22,11 @@ Athletes not reaching the National Standard can still gain selection by achievin
 Indoor performances, Open Meetings, League Matches and BMC Races are rarely considered as evidence for selection and only in exceptional circumstances and at the discretion of the KSAA Selection Committee would an athlete be selected with performances from outside the main championships (see Senior athletes below).
 
 
-<div class="panel panel-default">
-    <div class="panel-body">
-        <p>
-            Due to more restricted opportunities for Senior athletes, qualifying times / distances will be considered from recognised Championships and a wider range of events.
-        </p>
-        <p>
-            <strong>Senior</strong> athletes should also complete a nomination form and return it on or before the date of the Kent Schools' Track and Field Championships.
-        </p>
-    </div>
+<div class="well">
+    <p>
+        Due to more restricted opportunities for Senior athletes, qualifying times / distances will be considered from recognised Championships and a wider range of events.
+    </p>
+    <p>
+        <strong>Senior</strong> athletes should also complete a nomination form and return it on or before the date of the Kent Schools' Track and Field Championships.
+    </p>
 </div>
