@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Ashford & The Weald
-summer_manager: Tamzin Jarvis
-summer_manager-email: t.jarvis@homewood.kent.sch.uk
+summer_manager: Miss S.Kray
+summer_manager-email: kray.s@north.kent.sch.uk
 winter_manager: Miss S.Kray
 winter_manager-email: kray.s@north.kent.sch.uk
 ---

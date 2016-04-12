@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Sevenoaks & Tonbridge
-summer_manager: Peter Ebbage
-summer_manager-email: pete.ebbage@judd.kent.sch.uk
+summer_manager: Mr. I. Presnell
+summer_manager-email: ip@newbeacon.org.uk
 winter_manager: Mr. I. Presnell
 winter_manager-email: ip@newbeacon.org.uk
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: St. Augustines & Canterbury
-summer_manager: Natalie Bonnywell
-summer_manager-email: nbonneywell@canterbury.kent.sch.uk
+summer_manager: Mrs K. French
+summer_manager-email: kf@queenelizabeths.kent.sch.uk
 winter_manager: Mrs K. French
 winter_manager-email: kf@queenelizabeths.kent.sch.uk
 ---
