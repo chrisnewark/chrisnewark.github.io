@@ -11,7 +11,7 @@ location: Ashford
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/15-16/2016-06-11-kent-schools-t-and-f-championships/KentSchoolsChampionshipEntryList2016.xlsx">2016 Kent Schools Championship Entries</a></li>
+            <li><a href="/files/events/15-16/2016-06-11-kent-schools-t-and-f-championships/KentSchoolsChampionshipEntryList2016.pdf">2016 Kent Schools Championship Entries</a></li>
         </ul>
     </div>
 </div>
