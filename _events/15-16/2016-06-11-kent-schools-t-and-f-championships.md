@@ -13,6 +13,7 @@ location: Ashford
         <ul>
             <li><a href="/files/events/15-16/2016-06-11-kent-schools-t-and-f-championships/KentSchoolsChampionshipEntryList2016.pdf">Entries</a></li>
             <li><a href="/files/events/15-16/2016-06-11-kent-schools-t-and-f-championships/KentSchoolsChampionshipTimetable2016.pdf">Timetable</a></li>
+            <li><a href="/files/events/15-16/2016-06-11-kent-schools-t-and-f-championships/KSAAChampionshipResults2016.pdf">Results</a></li>
         </ul>
     </div>
 </div>
