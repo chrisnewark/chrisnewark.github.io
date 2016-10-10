@@ -3,8 +3,8 @@ layout: default
 title: Shepway
 summer_manager: Contact your P.E. department for entry information
 summer_manager-email: 
-winter_manager: TBC
-winter_manager-email: TBC
+winter_manager: Ms. J. Wilson
+winter_manager-email: jwilson@brockhill.kent.sch.uk
 ---
 
 ## Affiliated Schools
