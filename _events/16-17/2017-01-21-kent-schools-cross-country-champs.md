@@ -5,7 +5,7 @@ date: 21 January 2017
 location: Dover
 ---
 
-#### KSAA Cross Country Championships Saturday 21st January 2016
+#### KSAA Cross Country Championships Saturday 21st January 2017
 
 #### The Duke of York's Royal Military School, Dover CT15 5EQ
 
