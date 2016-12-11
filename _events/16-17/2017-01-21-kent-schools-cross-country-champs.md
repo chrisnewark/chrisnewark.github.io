@@ -9,6 +9,15 @@ location: Dover
 
 #### The Duke of York's Royal Military School, Dover CT15 5EQ
 
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">Downloads</h3>
+  </div>
+  <div class="panel-body">
+    <a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAAProgramme2017-ForReview.pdf">List of entrants</a>
+  </div>
+</div>
+
 #### IMPORTANT INFORMATION - PLEASE READ CAREFULLY
 
 We are very grateful to The Duke of York's School for hosting our event this year.
