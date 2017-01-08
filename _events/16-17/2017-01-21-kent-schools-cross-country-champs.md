@@ -45,8 +45,8 @@ The course has to fit in around the schools pitches, and so it may be necessary 
 
 #### The Course
 
-<a href="/images/events/16-17/2017-01-21-kent-schools-cross-country-champs/course-map.png" target="_blank">
-    <img src="/images/events/16-17/2017-01-21-kent-schools-cross-country-champs/course-map.png" style="max-width:100%;"/>
+<a href="/images/events/16-17/2017-01-21-kent-schools-cross-country-champs/course-map.PNG" target="_blank">
+    <img src="/images/events/16-17/2017-01-21-kent-schools-cross-country-champs/course-map.PNG" style="max-width:100%;"/>
 </a>
 
 #### Parking
