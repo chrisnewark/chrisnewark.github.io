@@ -49,6 +49,10 @@ The course has to fit in around the schools pitches, and so it may be necessary 
     <img src="/images/events/16-17/2017-01-21-kent-schools-cross-country-champs/course-map.PNG" style="max-width:100%;"/>
 </a>
 
+<a href="/images/events/16-17/2017-01-21-kent-schools-cross-country-champs/course-map-simple.PNG" target="_blank">
+    <img src="/images/events/16-17/2017-01-21-kent-schools-cross-country-champs/course-map-simple.PNG" style="max-width:100%;"/>
+</a>
+
 #### Parking
 
 The security gate will be manned and all cars entering the site will be given numbered tickets which must be clearly displayed on the dashboard. There will also be number plate recognition cameras in operation.
