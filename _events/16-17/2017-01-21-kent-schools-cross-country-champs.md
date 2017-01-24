@@ -15,12 +15,12 @@ location: Dover
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Year-7-Girls-Results.pdf">Year 7 Girls</a></li>
-            <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Year-7-Boys-Results.pdf">Year 7 Boys</a></li>
-            <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Junior-Girls-Results.pdf">Junior Girls</a></li>
-            <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Junior-Boys-Results.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Year-7-Girls-Results-v2.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Year-7-Boys-Results-v2.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Junior-Girls-Results-v2.pdf">Junior Girls</a></li>
+            <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Junior-Boys-Results-v2.pdf">Junior Boys</a></li>
             <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Intermediate-Girls-Results.pdf">Intermediate Girls</a></li>
-            <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Intermediate-Boys-Results.pdf">Intermediate Boys</a></li>
+            <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Intermediate-Boys-Results-v2.pdf">Intermediate Boys</a></li>
             <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Senior-Girls-Results.pdf">Senior Girls</a></li>
             <li><a href="/files/events/16-17/2017-01-21-kent-schools-cross-country-champs/KSAA-2017-Cross-Country-Championships-Senior-Boys-Results.pdf">Senior Boys</a></li>
         </ul>
