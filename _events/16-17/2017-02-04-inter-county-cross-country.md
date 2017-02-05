@@ -11,6 +11,21 @@ location: Brands Hatch
 
 #### Brands Hatch Race Circuit, Fawkham, Kent (DA3 8NG)
 
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title">Results</h3>
+    </div>
+    <div class="panel-body">
+        <ul>
+            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Junior-Girls-2017.pdf">Junior Girls</a></li>
+            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Junior-Boys-2017.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Intermediate-Girls-2017.pdf">Intermediate Girls</a></li>
+            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Intermediate-Boys-2017.pdf">Intermediate Boys</a></li>
+            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Senior-Girls-2017.pdf">Senior Girls</a></li>
+            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Senior-Boys-2017.pdf">Senior Boys</a></li>
+        </ul>
+    </div>
+</div>
 
 The course will be run over the north-western car and caravan parking area, known as the "Airfield" and is accessed directly from the A20 Gorse Hill entrance and **not** via the Main Circuit entrance.
 
