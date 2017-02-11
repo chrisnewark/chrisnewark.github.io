@@ -19,10 +19,10 @@ location: Brands Hatch
         <ul>
             <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Junior-Girls-2017.pdf">Junior Girls</a></li>
             <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Junior-Boys-2017.pdf">Junior Boys</a></li>
-            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Intermediate-Girls-2017.pdf">Intermediate Girls</a></li>
+            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Intermediate-Girls-2017-v2.pdf">Intermediate Girls</a></li>
             <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Intermediate-Boys-2017-v2.pdf">Intermediate Boys</a></li>
-            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Senior-Girls-2017.pdf">Senior Girls</a></li>
-            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Senior-Boys-2017.pdf">Senior Boys</a></li>
+            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Senior-Girls-2017-v2.pdf">Senior Girls</a></li>
+            <li><a href="/files/events/16-17/2017-02-04-inter-county-cross-country/SE-Schools-Inter-Counties-Cross-Country-Senior-Boys-2017-v2.pdf">Senior Boys</a></li>
         </ul>
     </div>
 </div>
