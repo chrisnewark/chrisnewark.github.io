@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Medway
-summer_manager: Mr. D. Walker
-summer_manager-email: dmwalker1978@yahoo.co.uk
+summer_manager: Kerri Clarke
+summer_manager-email: kclarke@rmgs.org.uk
 winter_manager: Mr. D. Walker
 winter_manager-email: dmwalker1978@yahoo.co.uk
 ---

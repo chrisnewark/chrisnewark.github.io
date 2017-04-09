@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Bromley
-summer_manager: Vikki Eason
-summer_manager-email: vikki.eason@newsteadwood.bromley.sch.uk
+summer_manager: Graham Purdy
+summer_manager-email: GPurdy@lpbs.org.uk
 winter_manager: Ms. L. Philbrick
 winter_manager-email: l.philbrick@darrickwood.bromley.sch.uk
 ---
