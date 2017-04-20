@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Shepway
-summer_manager: Contact your P.E. department for entry information
-summer_manager-email: 
+summer_manager: Ms. J. Wilson
+summer_manager-email: jwilson@brockhill.kent.sch.uk
 winter_manager: Ms. J. Wilson
 winter_manager-email: jwilson@brockhill.kent.sch.uk
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Swale
-summer_manager: Contact your P.E. department for entry information
-summer_manager-email: 
+summer_manager: Mr. A. Scoones
+summer_manager-email: athletics@swalecombinedac.co.uk
 winter_manager: Mr. A. Scoones
 winter_manager-email: athletics@swalecombinedac.co.uk
 ---
