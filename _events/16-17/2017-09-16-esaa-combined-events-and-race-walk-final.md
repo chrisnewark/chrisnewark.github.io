@@ -13,7 +13,7 @@ location: Boston Lincs
     <ul>
         <li>
             <a href="/files/events/16-17/2017-09-16-esaa-combined-events-and-race-walk-final/Race-Walk-Form-Nomination.doc">
-                Combined events nomination form
+                Race walk nomination form
             </a>
         </li>
     </ul>
@@ -21,7 +21,7 @@ location: Boston Lincs
 </div>
 
 
-## Combined Event Standards 2017
+## Race walk standards 2017
 
 | Age Group                         | NS        |
 | ---                               | ---       |
