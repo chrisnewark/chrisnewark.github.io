@@ -15,6 +15,7 @@ location: Ashford
     </div>
     <div class="panel-body">
         <ul>
+            <li><a href="/files/events/16-17/2017-06-10-kent-schools-t-and-f-championships/Kent-Schools-T-F-Championship-Results-10062017.pdf">Results</a></li>
             <li><a href="/files/events/16-17/2017-06-10-kent-schools-t-and-f-championships/KSAA-Timetable-2017.pdf">Event Timetable</a></li>
             <li><a href="/files/events/16-17/2017-06-10-kent-schools-t-and-f-championships/ESAA-T-F-Standards-2017.xlsx">ESAA Track & Field Standards 2017</a></li>
             <li><a href="/files/events/16-17/2017-06-10-kent-schools-t-and-f-championships/Kent-School-TF-Championship-Entry-Submission-2017.pdf">Main Championship Entries</a> - does not currently include any from Thanet District and only a minimal entry from Shepway District.</li>
