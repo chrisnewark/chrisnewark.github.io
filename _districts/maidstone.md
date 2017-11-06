@@ -3,8 +3,8 @@ layout: default
 title: Maidstone
 summer_manager: Chris Challiss
 summer_manager-email: cchalliss@saa.woodard.co.uk
-winter_manager: Mr. P. Lewis
-winter_manager-email: Phil.Lewis@aylesford.kent.sch.uk
+winter_manager: Ms K. Jarvis
+winter_manager-email: Kelly.Jarvis@aylesford.kent.sch.uk
 ---
 
 ## Affiliated Schools

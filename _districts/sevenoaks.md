@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sevenoaks & Tonbridge
+title: Sevenoaks
 summer_manager: Mr. I. Presnell
 summer_manager-email: ip@newbeacon.org.uk
 winter_manager: Mr. I. Presnell
@@ -9,13 +9,14 @@ winter_manager-email: ip@newbeacon.org.uk
 
 ## Affiliated Schools
 
-- Combe Bank
-- Hayesbrook
-- New Beacon
-- Sevenoaks School
-- The Judd School
-- Tonbridge School
-- Walthamstow Hall
-- Weald Of Kent
-- Schools at Somerhill
+- Sackville
+- Radnor House
 - Sevenoaks Prep
+- Sevenoaks School
+- Walthamstow Hall
+- St Michael's Otford
+- New Beacon
+- Russell House
+- Trinity
+- Knole Academy
+- Solefields
