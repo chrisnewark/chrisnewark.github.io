@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sevenoaks
+title: Tonbridge
 summer_manager: 
 summer_manager-email: 
 winter_manager: Mr. J. Taylor
