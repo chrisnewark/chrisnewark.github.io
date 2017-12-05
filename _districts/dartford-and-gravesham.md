@@ -3,8 +3,8 @@ layout: default
 title: Dartford & Gravesham
 summer_manager: Gary Jones
 summer_manager-email: GJones@dartfordgrammarschool.org.uk
-winter_manager: Mr. G. Bright
-winter_manager-email: BRIGHTG@saintgeorgescofe.kent.sch.uk
+winter_manager: Mr A Pickett
+winter_manager-email: andrew.pickett@leighacademy.org.uk
 ---
 
 ## Affiliated Schools
