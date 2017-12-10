@@ -9,6 +9,15 @@ location: Dover
 
 ### The Duke of York's Royal Military School, Dover CT15 5EQ
 
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">Downloads</h3>
+  </div>
+  <div class="panel-body">
+    <a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/KSAAProgramme2018-ForReview.pdf">List of entrants</a>
+  </div>
+</div>
+
 We are very grateful to The Duke of York's School for hosting our event this year. As this is an M.O.D. site there are special requirements that must be adhered to. Please ensure you follow all the rules and requests of the school.
 
 ### Entry procedure
