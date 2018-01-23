@@ -15,10 +15,10 @@ location: Dover
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y7-Girls-2018.pdf">Year 7 Girls</a></li>
-            <li><a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y7-Boys-2018.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y7-Girls-2018-v2.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y7-Boys-2018-v2.pdf">Year 7 Boys</a></li>
             <li><a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Junior-Girls-2018.pdf">Junior Girls</a></li>
-            <li><a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Junior-Boys-2018.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Junior-Boys-2018-v2.pdf">Junior Boys</a></li>
             <li><a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Intermediate-Girls-2018.pdf">Intermediate Girls</a></li>
             <li><a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Intermediate-Boys-2018.pdf">Intermediate Boys</a></li>
             <li><a href="/files/events/17-18/2018-01-20-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Senior-Girls-2018.pdf">Senior Girls</a></li>
