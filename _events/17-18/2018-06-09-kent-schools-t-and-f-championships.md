@@ -11,7 +11,7 @@ location: Ashford
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/16-17/2018-06-09-kent-schools-t-and-f-championships/2018-Age-Group-Championship-Entry-List.pdf">Entries</li>
+            <li><a href="/files/events/16-17/2018-06-09-kent-schools-t-and-f-championships/2018-Age-Group-Championship-Entry-List.pdf">Entries</a></li>
         </ul>
     </div>
 </div>
