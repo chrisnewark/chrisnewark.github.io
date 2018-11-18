@@ -3,8 +3,8 @@ layout: default
 title: Ashford & The Weald
 summer_manager: Chris Nicholas
 summer_manager-email: cnicholas@thejohnwallisacademy.org
-winter_manager: Miss S.Kray
-winter_manager-email: kray.s@north.kent.sch.uk
+winter_manager: Ms M. Evans
+winter_manager-email: EvansM@ashfordschool.co.uk
 ---
 
 ## Affiliated Schools

@@ -3,8 +3,8 @@ layout: default
 title: Shepway
 summer_manager: Ms. J. Wilson
 summer_manager-email: jwilson@brockhill.kent.sch.uk
-winter_manager: Ms. J. Wilson
-winter_manager-email: jwilson@brockhill.kent.sch.uk
+winter_manager: Contact School PE Department
+winter_manager-email: 
 ---
 
 ## Affiliated Schools
