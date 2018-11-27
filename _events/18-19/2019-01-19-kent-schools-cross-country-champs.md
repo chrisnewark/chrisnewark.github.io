@@ -65,3 +65,17 @@ No dogs allowed on the school site.
 ### Cancellation of event
 
 If this becomes necessary, all district co-ordinators will be informed and a notice will be put on the website by Thursday 17th January 2019.
+
+### Race Times
+
+| Event                             | Time  | Course                    | Distance      |
+| ---                               |---    | ---                       |               |
+| Year 7 Girls                      | 11.00 | Loops A and C             | 2550 Metres   |
+| Year 7 Boys                       | 11.20 | Loops B and C             | 3000 Metres   |
+| Inter/Sen. Girls (Yr10+)          | 11.45 | Loops C and C             | 4000 Metres   |
+| Sen. Boys (Yr12/13)               | 12.15 | Loops B, C, C and C       | 7000 Metres   |
+| Refreshments and Break                                                                |
+| Inter Boys (Yr10/11)              | 13.10 | Loops C, C and C          | 6000 Metres   |
+| Jun. Girls (Yr8/9)                | 13.40 | Loops A, A and C          | 3100 Metres   |
+| Jun. Boys (Yr8/9)                 | 14.05 | Loops C and C             | 4000 Metres   |
+{: class="table table-striped table-hover"}
