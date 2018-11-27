@@ -79,3 +79,15 @@ If this becomes necessary, all district co-ordinators will be informed and a not
 | Jun. Girls (Yr8/9)                | 13.40 | Loops A, A and C          | 3100 Metres   |
 | Jun. Boys (Yr8/9)                 | 14.05 | Loops C and C             | 4000 Metres   |
 {: class="table table-striped table-hover"}
+
+The course will be really suited to spikes/studs, as totally on grass.
+
+Loop B includes most of Loop A, and Loop C includes most of A and B.
+
+The course has to fit in around the schools pitches, and so it may be necessary to change parts of the course, especially the Start and Finish if ground conditions require.
+
+### The Course
+
+<a href="/images/events/16-17/2017-01-21-kent-schools-cross-country-champs/course-map.PNG" target="_blank">
+    <img src="/images/events/16-17/2017-01-21-kent-schools-cross-country-champs/course-map.PNG" style="max-width:100%;"/>
+</a>
