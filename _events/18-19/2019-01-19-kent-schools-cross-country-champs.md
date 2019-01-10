@@ -78,7 +78,7 @@ If this becomes necessary, all district co-ordinators will be informed and a not
 
 The cost of staging our Cross Country and Track and Field Championships continues to rise considerably.
 
-To help us offset some of these increases we would like you to consider a donation to KSAA when you arrive at the event this year. We suggest £2, but any donation you feel able to give will be greatly appreciated.
+To help us offset some of these increases we would like you to consider a donation to KSAA when you arrive at the event this year. We suggest &#163;2, but any donation you feel able to give will be greatly appreciated.
 
 ### Race Times
 
