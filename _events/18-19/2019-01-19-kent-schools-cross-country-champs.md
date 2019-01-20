@@ -10,12 +10,23 @@ location: Dover
 ### The Duke of York's Royal Military School, Dover CT15 5EQ
 
 <div class="panel panel-info">
-  <div class="panel-heading">
-    <h3 class="panel-title">Downloads</h3>
-  </div>
-  <div class="panel-body">
-    <a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/KSAAProgramme2019-ForReview.pdf">List of entrants - <i>This list will be removed after the championships</i></a>
-  </div>
+    <div class="panel-heading">
+        <h3 class="panel-title">Results</h3>
+    </div>
+    <div class="panel-body">
+        <ul>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y7-Girls-2019">Year 7 Girls</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y7-Boys-2019">Year 7 Boys</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-JG-2019.pdf">Junior Girls</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-JB-2019.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-IG-2019.pdf">Intermediate Girls</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-IB-2019.pdf">Intermediate Boys</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-SG-2019.pdf">Senior Girls</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-SB-2019.pdf">Senior Boys</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y6-Invitation-Girls-2019.pdf">Year 6 Girls (Invitation)</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y6-Invitation-Boys-2019.pdf">Year 6 Boys (Invitation)</a></li>
+        </ul>
+    </div>
 </div>
 
 We are very grateful to The Duke of York's School for hosting our event this year. As this is an M.O.D. site there are special requirements that must be adhered to. Please ensure you follow all the rules and requests of the school.
