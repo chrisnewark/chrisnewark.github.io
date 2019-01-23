@@ -15,8 +15,8 @@ location: Dover
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y7-Girls-2019.pdf">Year 7 Girls</a></li>
-            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y7-Boys-2019.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y7-Girls-2019-RevA.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-Y7-Boys-2019-RevA.pdf">Year 7 Boys</a></li>
             <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-JG-2019.pdf">Junior Girls</a></li>
             <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-JB-2019.pdf">Junior Boys</a></li>
             <li><a href="/files/events/18-19/2019-01-19-kent-schools-cross-country-champs/Kent-Schools-Cross-Country-Championships-IG-2019.pdf">Intermediate Girls</a></li>
