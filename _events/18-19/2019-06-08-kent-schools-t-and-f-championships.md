@@ -5,6 +5,8 @@ date: 08 June 2019
 location: Ashford
 ---
 
+### PLEASE NOTE: A COMPETITION ENTRY FEE OF &#163;2 PER ATHLETE WILL BE REQUESTED AT REGISTRATION.
+
 <div class="panel panel-info">
     <div class="panel-heading">
         <h3 class="panel-title">Downloads</h3>
@@ -15,5 +17,3 @@ location: Ashford
         </ul>
     </div>
 </div>
-
-### PLEASE NOTE: A COMPETITION ENTRY FEE OF &#163;2 PER ATHLETE WILL BE REQUESTED AT REGISTRATION.
