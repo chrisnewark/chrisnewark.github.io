@@ -13,6 +13,7 @@ location: Ashford
     </div>
     <div class="panel-body">
         <ul>
+            <li><a href="/files/events/18-19/2019-06-08-kent-schools-t-and-f-championships/KSAA-Timetable-2019.pdf">Event Timetable</a></li>
             <li><a href="/files/events/18-19/2019-06-08-kent-schools-t-and-f-championships/KSAA-Champs-TF-Entries-2019.pdf">Entries</a></li>
         </ul>
     </div>
