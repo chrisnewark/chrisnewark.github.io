@@ -20,3 +20,17 @@ location: Basingstoke
     </ul>
   </div>
 </div>
+
+# Teams for this years event
+
+**Junior Boys:** Kai Prendergast, Reef Page, Ben Nolan, Daniel Goriola 
+
+**Junior Girls:** Nadia Sadler-Reeves, Libby Turbutt, Georgia Baker, Jessie Sargeant 
+
+**Inter Boys:** George Seery, Luke Mellor, Oreofeoluwa Adepegba, Joshua O'Brien 
+
+**Inter Girls:** Isabelle Harding, Samantha Stubbs, Sarris Teale, Rebekah O'Brien 
+
+**Senior Boys:** David Fullbrook, Dougie Noel, Pedro Gleadall 
+
+**Senior Girls:** Faith Cox, Isabelle Vine
