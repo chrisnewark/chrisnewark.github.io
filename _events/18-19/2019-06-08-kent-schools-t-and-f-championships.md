@@ -5,7 +5,7 @@ date: 08 June 2019
 location: Ashford
 ---
 
-### PLEASE NOTE: A COMPETITION ENTRY FEE OF &#163;2 PER ATHLETE WILL BE REQUESTED AT REGISTRATION.
+**The high winds and heavy rain on Saturday presented safety issues for the Pole Vault so consequently the event was cancelled. Unfortunately, with such a crowded summer season KSAA is unable to find an alternative date that would suit everyone; therefore the 2019 competition will not now be contested. We apologise to all vaulters who had entered and hope that future meetings this summer are not subject to such appalling conditions.**
 
 <div class="panel panel-info">
     <div class="panel-heading">
