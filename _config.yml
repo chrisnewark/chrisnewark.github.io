@@ -1,8 +1,8 @@
-﻿current_school_year: 18-19
+﻿current_school_year: 19-20
 current_season: summer
 future: true
 collections:
-    events:
-        output: true
-    districts:
-        output: true
+  events:
+    output: true
+  districts:
+    output: true
