@@ -3,8 +3,8 @@ layout: default
 title: Maidstone
 summer_manager: Chris Challiss
 summer_manager-email: cchalliss@saa.woodard.co.uk
-winter_manager: Mr. G. Cardwell
-winter_manager-email: gcardwell@newlinelearning.com
+winter_manager: Mr. M. Friend
+winter_manager-email: mfriend@wrotham.kent.sch.uk
 ---
 
 ## Affiliated Schools
