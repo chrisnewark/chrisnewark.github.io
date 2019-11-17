@@ -5,7 +5,7 @@ date: 18 January 2020
 location: Dover
 ---
 
-### Kent Schools' Cross-Country Championships Saturday 19th January 2019.
+### Kent Schools' Cross-Country Championships Saturday 18th January 2020.
 
 ### The Duke of York's Royal Military School, Dover CT15 5EQ
 
