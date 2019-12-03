@@ -73,8 +73,8 @@ No dogs allowed on the school site.
 
 | Event | Time | Course | Distance |
 | --- |--- | --- | |
-| Year 7 Girls | 11.00 | Loops A and C | 2550 Metres |
-| Year 7 Boys | 11.20 | Loops B and C | 3000 Metres |
+| Year 7 Girls | 10.45 | Loops A and C | 2550 Metres |
+| Year 7 Boys | 11.05 | Loops B and C | 3000 Metres |
 | Inter/Sen. Girls (Yr10+) | 11.45 | Loops C and C | 4000 Metres |
 | Sen. Boys (Yr12/13) | 12.15 | Loops B, C, C and C | 7000 Metres |
 | Refreshments and Break |
