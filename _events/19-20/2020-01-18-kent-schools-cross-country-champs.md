@@ -9,6 +9,24 @@ location: Dover
 
 ### The Duke of York's Royal Military School, Dover CT15 5EQ
 
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title">Entries</h3>
+    </div>
+    <div class="panel-body">
+        <ul>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/Year7GirlsEntries.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/Year7BoysEntries.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/JuniorGirlsEntries.pdf">Junior Girls</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/JuniorBoysEntries.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/IntermediateGirlsEntries.pdf">Intermediate Girls</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/IntermediateBoysEntries.pdf">Intermediate Boys</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/SeniorGirlsEntries.pdf">Senior Girls</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/SeniorBoysEntries.pdf">Senior Boys</a></li>
+        </ul>
+    </div>
+</div>
+
 We are very grateful to The Duke of York's School for hosting our event this year. As this is an M.O.D. site there are special requirements that must be adhered to. Please ensure you follow all the rules and requests of the school.
 
 ### Entry procedure
