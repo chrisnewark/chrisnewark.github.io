@@ -11,18 +11,20 @@ location: Dover
 
 <div class="panel panel-info">
     <div class="panel-heading">
-        <h3 class="panel-title">Entries</h3>
+        <h3 class="panel-title">Results</h3>
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/Year7GirlsEntries.pdf">Year 7 Girls</a></li>
-            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/Year7BoysEntries.pdf">Year 7 Boys</a></li>
-            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/JuniorGirlsEntries.pdf">Junior Girls</a></li>
-            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/JuniorBoysEntries.pdf">Junior Boys</a></li>
-            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/IntermediateGirlsEntries.pdf">Intermediate Girls</a></li>
-            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/IntermediateBoysEntries.pdf">Intermediate Boys</a></li>
-            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/SeniorGirlsEntries.pdf">Senior Girls</a></li>
-            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/SeniorBoysEntries.pdf">Senior Boys</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Provisional-Y7-Girls-2020.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Y7-Boys-2020.pdf.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Junior-Girls-2020.pdf">Junior Girls</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Junior-Boys-2020.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Inter-Girls-2020.pdf">Intermediate Girls</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Inter-Boys-2020.pdf">Intermediate Boys</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Senior-Girls-2020.pdf">Senior Girls</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Senior-Boys-2020.pdf">Senior Boys</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Y6-Girls-2020.pdf">Year 6 Girls (Invitation)</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Invitational-Y6-Boys-2020.pdf">Year 6 Boys (Invitation)</a></li>
         </ul>
     </div>
 </div>
