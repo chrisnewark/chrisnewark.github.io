@@ -16,7 +16,7 @@ location: Dover
     <div class="panel-body">
         <ul>
             <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Provisional-Y7-Girls-2020.pdf">Year 7 Girls</a></li>
-            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Y7-Boys-2020.pdf.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Y7-Boys-2020.pdf">Year 7 Boys</a></li>
             <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Junior-Girls-2020.pdf">Junior Girls</a></li>
             <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Junior-Boys-2020.pdf">Junior Boys</a></li>
             <li><a href="/files/events/19-20/2020-01-18-kent-schools-cross-country-champs/KSAA-Cross-Country-Championships-Inter-Girls-2020.pdf">Intermediate Girls</a></li>
