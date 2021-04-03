@@ -15,7 +15,7 @@ location: Ashford TBC
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/20-21/2021-06-12-kent-schools-t-and-f-championships/T-and-F-Standards-2021.pdf">Standards</a></li>
+            <li><a href="/files/events/20-21/2021-06-12-kent-schools-t-and-f-championships/T-and-F-Standards-2021.pdf">Track and Field Standards 2021</a></li>
         </ul>
     </div>
 </div>
