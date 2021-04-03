@@ -41,3 +41,5 @@ This year's KSAA County Championships will be slightly different to previous edi
 - The deadline for entries will be Monday 24th May. This is later than normal (because of the current Covid restrictions) and so there will be strictly no late entries or event changes!
 
 Please Note: The date of the Championships clashes with Day 1 of SEAA U20 Championships
+
+<span style="font-size: 1.4em;">[2021 Kent Schools AA County Championships Entry Form](https://forms.gle/pvGsry2goPPyVYNL9)</span>
