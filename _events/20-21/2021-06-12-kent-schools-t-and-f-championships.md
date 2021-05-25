@@ -16,8 +16,8 @@ location: Ashford TBC
     <div class="panel-body">
         <ul>
             <li><a href="/files/events/20-21/2021-06-12-kent-schools-t-and-f-championships/T-and-F-Standards-2021.pdf">Track and Field Standards 2021</a></li>
-            <li><a href="https://forms.gle/pvGsry2goPPyVYNL9">Entry Form</a></li>
-            <li><a href="/files/events/20-21/2021-06-12-kent-schools-t-and-f-championships/entries-2021-05-20.pdf">Entries up to 20th May 2021</a></li>
+            <li>Entries are now closed</li>
+            <li><a href="/files/events/20-21/2021-06-12-kent-schools-t-and-f-championships/entries-2021-05-24.pdf">Entries as of closing date</a></li>
         </ul>
     </div>
 </div>
