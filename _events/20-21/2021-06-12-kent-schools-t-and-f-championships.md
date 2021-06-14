@@ -20,7 +20,7 @@ location: Ashford TBC
             <li><a href="/files/events/20-21/2021-06-12-kent-schools-t-and-f-championships/KSAATrackandFieldChampionshipProgramme2021.pdf">Championship Programme with Timetable</a></li>
             <li><a href="/files/events/20-21/2021-06-12-kent-schools-t-and-f-championships/Covid-Compliance-Information-and-Declaration.pdf">Important COVID Compliance Information and Declaration</a></li>
             <li><a href="https://justiming.co.uk/liveresults/liveresults.html?meeting=ksaa12.6.21&page=schedule">Live Results</a></li>
-            <li><a href="/files/events/20-21/2021-06-12-kent-schools-t-and-f-championships/KSAAT_FChampionshipResults12062021.pdf">Final Results</a></li>
+            <li><a href="/files/events/20-21/2021-06-12-kent-schools-t-and-f-championships/KSAAT_FChampionshipResults12062021RevA.pdf">Final Results</a></li>
         </ul>
     </div>
 </div>
