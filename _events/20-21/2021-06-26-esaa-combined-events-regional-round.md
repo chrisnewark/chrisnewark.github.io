@@ -14,7 +14,10 @@ location: Lee Valley
     <ul>
         <li>
             <a href="/files/events/20-21/2021-06-26-esaa-combined-events-regional-round/CE-NOMINATION-FORMS-2021.doc">
-                Combined events nomination form
+                Nomination form
+            </a>
+            <a href="/files/events/20-21/2021-06-26-esaa-combined-events-regional-round/Combined-Events-Programme-2021.pdf">
+                Programme
             </a>
         </li>
     </ul>
