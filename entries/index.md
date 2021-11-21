@@ -6,7 +6,8 @@ navigation-position: 4
 ---
 
 ## The District System
-1. Kent Schools are divided into geographical districts of which there are currently 13.
+
+1. Kent Schools are divided into geographical districts of which there are currently 14.
 2. Individual schools must be affiliated to their District Athletics Association or equivalent. Each district must affiliate annually to KSAA. This entitles school athletes in their area to compete in our Cross Country and Track and Field Championships (subject to district selection policy).
 3. Each district sets its own athlete selection criteria. Some will have a district inter school competition and others will have a nomination system.
 4. Each district should have a co-ordinator for Cross Country and Track & Field through whom all entries to KSAA Championships will be made.
@@ -17,6 +18,7 @@ navigation-position: 4
 There are no senior age group events (Yr. 12 & 13) Any senior athlete who wishes to be considered for selection to the Kent team at the English Schools Championships should ensure they are nominated by their PE teacher on the district entries and / or complete a nomination form (on website).
 
 ## The Entry System
+
 1. Athletes should check with their PE teacher to see if they have been nominated by their school or have qualified through their district championships. Staff should know their district co-ordinator and be aware of the selection process for their district.
 2. The district co-ordinator will set local deadlines for entries and replies to selection letters, to which schools and athletes should adhere or risk omission from the competition.
 3. Questions regarding entries should be addressed to your school P.E. department who should liaise with the district co-ordinator.
