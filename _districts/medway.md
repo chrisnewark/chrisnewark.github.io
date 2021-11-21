@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Medway
-summer_manager: Kerri Clarke
+summer_manager: Mrs. K. Clarke
 summer_manager-email: kclarke@rmgs.org.uk
-winter_manager: Kerri Clarke
+winter_manager: Mrs. K. Clarke
 winter_manager-email: kclarke@rmgs.org.uk
 ---
 

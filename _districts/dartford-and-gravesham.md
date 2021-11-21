@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Dartford & Gravesham
-summer_manager: Gary Jones
+summer_manager: Mr G. Jones
 summer_manager-email: GJones@dartfordgrammarschool.org.uk
-winter_manager: Gary Jones
+winter_manager: Mr G. Jones
 winter_manager-email: GJones@dartfordgrammarschool.org.uk
 ---
 
