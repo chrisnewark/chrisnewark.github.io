@@ -5,8 +5,6 @@ date: 22 January 2022
 location: Hop Farm
 ---
 
-### Kent Schools Athletic Association Cross Country Championships
-
 ### Saturday 22nd January 2022.
 
 ### The Hop Farm. Maidstone Road, Paddock Wood, TN12 6PY
