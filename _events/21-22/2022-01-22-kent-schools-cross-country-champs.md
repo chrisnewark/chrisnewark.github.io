@@ -9,6 +9,24 @@ location: Hop Farm
 
 ### The Hop Farm. Maidstone Road, Paddock Wood, TN12 6PY
 
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title">Entries</h3>
+    </div>
+    <div class="panel-body">
+        <ul>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/Year7Girls.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/Year7Boys.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/JuniorGirls.pdf">Junior Girls</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/JuniorBoys.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/InterGirls.pdf">Intermediate Girls</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/InterBoys.pdf">Intermediate Boys</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/SenGirls.pdf">Senior Girls</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/SenBoys.pdf">Senior Boys</a></li>
+        </ul>
+    </div>
+</div>
+
 ### IMPORTANT INFORMATION – PLEASE READ CAREFULLY
 
 ### Entries
