@@ -15,14 +15,14 @@ location: Hop Farm
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/Year7Girls.pdf">Year 7 Girls</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/Year7Boys.pdf">Year 7 Boys</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/JuniorGirls.pdf">Junior Girls</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/JuniorBoys.pdf">Junior Boys</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/InterGirls.pdf">Intermediate Girls</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/InterBoys.pdf">Intermediate Boys</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/SenGirls.pdf">Senior Girls</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/SenBoys.pdf">Senior Boys</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/Year7Girls-RevA.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/Year7Boys-RevA.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/JuniorGirls-RevA.pdf">Junior Girls</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/JuniorBoys-RevA.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/InterGirls-RevA.pdf">Intermediate Girls</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/InterBoys-RevA.pdf">Intermediate Boys</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/SenGirls-RevA.pdf">Senior Girls</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/SenBoys-RevA.pdf">Senior Boys</a></li>
         </ul>
     </div>
 </div>
