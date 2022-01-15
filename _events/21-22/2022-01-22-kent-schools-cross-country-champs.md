@@ -29,6 +29,12 @@ location: Hop Farm
 
 ### IMPORTANT INFORMATION – PLEASE READ CAREFULLY
 
+### COVID Reminder
+
+Please ensure you follow the latest NHS/Government guidelines for your own protection and that of others. Please try and take a Lateral Flow Test, either Friday or Saturday morning. If you have symptoms or are feeling unwell in any way, please do not attend. In crowded areas please use a mask and try to keep a distance. Bring hand sanitiser.
+
+Many thanks for your co-operation
+
 ### Entries
 
 Entry for this event is by a district competition or nomination by your school to the district
