@@ -31,9 +31,10 @@ location: Hop Farm
 
 ### COVID Reminder
 
+<span style="color: red;">
 Please ensure you follow the latest NHS/Government guidelines for your own protection and that of others. Please try and take a Lateral Flow Test, either Friday or Saturday morning. If you have symptoms or are feeling unwell in any way, please do not attend. In crowded areas please use a mask and try to keep a distance. Bring hand sanitiser.
-
-Many thanks for your co-operation
+</span>
+<span style="color: red;">Many thanks for your co-operation</span>
 
 ### Entries
 
