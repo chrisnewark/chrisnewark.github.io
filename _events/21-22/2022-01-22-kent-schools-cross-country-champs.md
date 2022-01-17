@@ -74,3 +74,27 @@ heavy ground conditions.
 If this becomes necessary, all district co-ordinators will be informed and a notice will be put on the website by Thursday 20th January 2022. The reserve date is Saturday 5th February 2022.
 
 The KSAA Committee would like to thank you for your co-operation.
+
+### Race Times
+
+| Event | Time | Course | Distance |
+| --- |--- | --- | |
+| Year 7 Girls | 10.45 | A B D F finish | 2400 Metres |
+| Year 7 Boys | 11.05 | A C D F | 2700 Metres |
+| Inter/Sen. Girls (Yr10+) | 11.45 | A C F G C D F | 4000 Metres |
+| Sen. Boys (Yr12/13) | 12.15 | A B F G C D E F G C D E F | 7250 Metres |
+| Refreshments and Break |
+| Inter Boys (Yr10/11) | 13.10 | A B D E F G C D E F | 5950 Metres |
+| Jun. Girls (Yr8/9) | 13.40 | A B D E F | 3250 Metres |
+| Jun. Boys (Yr8/9) | 14.05 | A C F G C D F | 4000 Metres |
+{: class="table table-striped table-hover"}
+
+Course will be suited to spikes/studs, as almost totally on grass. Two short sections of hard standing, one on the first bridge, and the second, crossing the track between Loops D/E. Second bridge from F to G has railway sleepers.
+
+It may be necessary to alter courses should there be heavy rainfall, to avoid waterlogged ground. Although flat the course is still testing.
+
+### The Course
+
+<a href="/images/events/21-22/2022-01-22-kent-schools-cross-country-champs/course-map.jpg" target="_blank">
+    <img src="/images/events/21-22/2022-01-22-kent-schools-cross-country-champs/course-map.jpg" style="max-width:100%;"/>
+</a>
