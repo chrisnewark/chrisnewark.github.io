@@ -11,18 +11,11 @@ location: Hop Farm
 
 <div class="panel panel-info">
     <div class="panel-heading">
-        <h3 class="panel-title">Entries</h3>
+        <h3 class="panel-title">Results</h3>
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/Year7Girls-RevA.pdf">Year 7 Girls</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/Year7Boys-RevA.pdf">Year 7 Boys</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/JuniorGirls-RevA.pdf">Junior Girls</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/JuniorBoys-RevA.pdf">Junior Boys</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/InterGirls-RevA.pdf">Intermediate Girls</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/InterBoys-RevA.pdf">Intermediate Boys</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/SenGirls-RevA.pdf">Senior Girls</a></li>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/SenBoys-RevA.pdf">Senior Boys</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/Results.pdf">Results</a></li>
         </ul>
     </div>
 </div>
