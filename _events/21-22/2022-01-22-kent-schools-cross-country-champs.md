@@ -15,7 +15,7 @@ location: Hop Farm
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/Results.pdf">Results</a></li>
+            <li><a href="/files/events/21-22/2022-01-22-kent-schools-cross-country-champs/ResultsRevA.pdf">Results</a></li>
         </ul>
     </div>
 </div>
