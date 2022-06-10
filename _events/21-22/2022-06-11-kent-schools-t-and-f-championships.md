@@ -25,3 +25,5 @@ location: Medway Park
         </ul>
     </div>
 </div>
+
+There will be a £5 entry fee to be paid by all competing athletes. This will be collected on the day at the registration table. Cash preferred.
