@@ -22,7 +22,7 @@ location: Medway Park
             <li><a href="/files/events/21-22/2022-06-11-kent-schools-t-and-f-championships/KSAA-2022-T&F-Championships-Entries-IB.pdf">Inter Boys entries</a></li>
             <li><a href="/files/events/21-22/2022-06-11-kent-schools-t-and-f-championships/KSAA-2022-T&F-Championships-Entries-IG.pdf">Inter Girls entries</a></li>
             <li><a href="/files/events/21-22/2022-06-11-kent-schools-t-and-f-championships/KSAA-2022-Timetable.pdf">Event timetable</a></li>
-            <li><a href="/files/events/21-22/2022-06-11-kent-schools-t-and-f-championships/KSAA-2022-T-F-Championships-Results11062022RevA.pdf">Results</a></li>
+            <li><a href="/files/events/21-22/2022-06-11-kent-schools-t-and-f-championships/KSAA-2022-T-F-Championships-Results11062022RevC.pdf">Results</a></li>
         </ul>
     </div>
 </div>
