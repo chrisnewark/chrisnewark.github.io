@@ -11,7 +11,7 @@ location: Surrey
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/18-19/2022-06-18-inter-county-track-and-field/SE-Inter-Counties-Schools-T-F-Results-Kingston-2022.pdf">Results</a></li>
+            <li><a href="/files/events/21-22/2022-06-18-inter-county-track-and-field/SE-Inter-Counties-Schools-T-F-Results-Kingston-2022.pdf">Results</a></li>
         </ul>
     </div>
 </div>
