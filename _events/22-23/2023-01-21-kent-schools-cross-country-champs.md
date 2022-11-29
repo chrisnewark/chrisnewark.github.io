@@ -39,8 +39,9 @@ Senior Boys - 12.35pm, Inter Boys - 13.10pm, Junior Girls - 13.40pm, Junior Boys
 
 ### Photography
 
-There will be an official photographer on the day.
-Any personal photographs / videos taken during the event should not be shared on social media without gaining permission from the children involved, their parents and carers.
+Any photographs taken at KSAA organised events are for personal use only and with the permission of the parent/carer of the competitor. There may also be local media/professional photographers at the event.
+
+The above guidance about photography also applies to events not organised by KSAA, but where individuals or teams are representing KSAA.
 
 ### Postponement of Event
 
