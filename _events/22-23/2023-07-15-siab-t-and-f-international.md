@@ -1,6 +1,6 @@
 ---
 layout: default
 title: SIAB T & F International
-date: 16 July 2022
-location: Ireland
+date: 15 July 2023
+location: Scotland
 ---

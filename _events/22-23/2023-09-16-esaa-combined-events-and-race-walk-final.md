@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ESAA Combined Events & Race Walk Final
-date: 17/18 September 2022
-dateOverride: 17/18 September 2022
+date: 16/17 September 2023
+dateOverride: 16/17 September 2023
 location: Bedford
 ---

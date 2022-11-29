@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Year 7 & 8 Inter-County
-date: 26 March 2022
-location: Essex
+date: 25 March 2023
+location: Liverpool
 ---
