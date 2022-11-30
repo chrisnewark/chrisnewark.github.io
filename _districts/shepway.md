@@ -4,7 +4,7 @@ title: Shepway
 summer_manager: Pat Hanys
 summer_manager-email: pathanys@ymail.com
 winter_manager: Ms S. Green
-winter_manager-email: sgo@shepwaysportstrust.org
+winter_manager-email: sgo@thesportstrust.org
 ---
 
 ## Affiliated Schools

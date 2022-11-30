@@ -4,7 +4,7 @@ title: Ashford & The Weald
 summer_manager: Chris Nicholas
 summer_manager-email: cnicholas@thejohnwallisacademy.org
 winter_manager: Ms S. Green
-winter_manager-email: sgo@shepwaysportstrust.org
+winter_manager-email: sgo@thesportstrust.org
 ---
 
 ## Affiliated Schools
