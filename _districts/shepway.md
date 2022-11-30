@@ -3,7 +3,7 @@ layout: default
 title: Shepway
 summer_manager: Pat Hanys
 summer_manager-email: pathanys@ymail.com
-winter_manager: Ms Sarah Green
+winter_manager: Ms S. Green
 winter_manager-email: sgo@shepwaysportstrust.org
 ---
 

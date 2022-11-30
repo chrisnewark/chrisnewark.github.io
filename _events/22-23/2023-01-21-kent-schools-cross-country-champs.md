@@ -5,7 +5,7 @@ date: 21 January 2023
 location: Dartford
 ---
 
-### Saturday 21nd January 2023.
+### Saturday 21st January 2023.
 
 ### Central Park, Dartford DA11JP
 
