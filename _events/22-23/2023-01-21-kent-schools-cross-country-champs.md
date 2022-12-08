@@ -9,6 +9,17 @@ location: Dartford
 
 ### Central Park, Dartford DA11JP
 
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title">Entries</h3>
+    </div>
+    <div class="panel-body">
+        <ul>
+            <li><a href="/files/events/22-23/2023-01-21-kent-schools-cross-country-champs/KSAACrossCountryEntries06122022forWebUpload.xlsx">Entries</a></li>
+        </ul>
+    </div>
+</div>
+
 ### Entries
 
 Entry for this event is by a district competition or nomination by your school to the district
