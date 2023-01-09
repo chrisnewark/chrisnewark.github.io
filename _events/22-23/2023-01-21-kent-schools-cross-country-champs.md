@@ -60,6 +60,10 @@ If this becomes necessary, all district co-ordinators will be informed and a not
 
 ### Course
 
-Details to be finalised. Map to follow asap.
+Acacia Car Park. High Street. DA1 1DJ
+
+<a href="/images/events/22-23/2023-01-21-kent-schools-cross-country-champs/course-map.jpg" target="_blank">
+    <img src="/images/events/22-23/2023-01-21-kent-schools-cross-country-champs/course-map.jpg" style="max-width:100%;"/>
+</a>
 
 The KSAA Committee would like to thank you for your co-operation.
