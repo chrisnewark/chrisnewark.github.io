@@ -41,7 +41,7 @@ There is no parking available within the park itself. A number of public car par
 
 Acacia Car Park, High street DA1 1DJ
 
-Alternative options: https://en.parkopedia.co.uk/parking/dartford
+Alternative options: [https://en.parkopedia.co.uk/parking/dartford](https://en.parkopedia.co.uk/parking/dartford)
 
 ### Athlete Entry Fee
 
