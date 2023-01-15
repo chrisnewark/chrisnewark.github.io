@@ -39,6 +39,10 @@ No new entries will be allowed on the day of competition. If in doubt about your
 
 There is no parking available within the park itself. A number of public car parks are located nearby. **Acacia car park is the nearest to registration. There is no access to the event via the Cranford Road entrance.** Please allow sufficient time to find a space and register in good time for your race. Athlete registration will be at or near Dartford Harriers A.C. club house.
 
+Acacia Car Park, High street DA1 1DJ
+
+Alternative options: https://en.parkopedia.co.uk/parking/dartford
+
 ### Athlete Entry Fee
 
 To help towards the cost of the event, there will be a charge of £5 which will be collected on the day of competition.
