@@ -11,11 +11,18 @@ location: Dartford
 
 <div class="panel panel-info">
     <div class="panel-heading">
-        <h3 class="panel-title">Entries</h3>
+        <h3 class="panel-title">Results</h3>
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/22-23/2023-01-21-kent-schools-cross-country-champs/KSAACrossCountryAcceptedEntriesforWebUpload16012023.xlsx">Entries</a></li>
+            <li><a href="/files/events/22-23/2023-01-21-kent-schools-cross-country-champs/KSAA-Y7GirlsCrossCountryResults21012023.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/22-23/2023-01-21-kent-schools-cross-country-champs/KSAA-Y7BoysCrossCountryResults21012023.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/22-23/2023-01-21-kent-schools-cross-country-champs/KSAA-JuniorGirlsCrossCountryResults21012023.pdf">Junior Girls</a></li>
+            <li><a href="/files/events/22-23/2023-01-21-kent-schools-cross-country-champs/KSAA-JuniorBoysCrossCountryResults21012023.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/22-23/2023-01-21-kent-schools-cross-country-champs/KSAA-InterGirlsCrossCountryResults21012023.pdf">Intermediate Girls</a></li>
+            <li><a href="/files/events/22-23/2023-01-21-kent-schools-cross-country-champs/KSAA-InterBoysCrossCountryResults21012023.pdf">Intermediate Boys</a></li>
+            <li><a href="/files/events/22-23/2023-01-21-kent-schools-cross-country-champs/KSAA-SeniorGirlsCrossCountryResults21012023.pdf">Senior Girls</a></li>
+            <li><a href="/files/events/22-23/2023-01-21-kent-schools-cross-country-champs/KSAA-SeniorBoysCrossCountryResults21012023.pdf">Senior Boys</a></li>
         </ul>
     </div>
 </div>
