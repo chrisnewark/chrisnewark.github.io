@@ -13,7 +13,7 @@ location: Birmingham
   <div class="panel-body">
     <ul>
         <li>
-            <a href="/files/events/22-23/2023-06-30-esaa-t-and-f-championships/KSAA-Nomination-Form-SENIOR-ATHLETE.docx">
+            <a href="/files/events/22-23/2023-06-30-esaa-t-and-f-championships/KSAA-Nomination-Form-SENIOR-ATHLETE-2023.docx">
                 KSAA Senior Athlete Nomination Form
             </a>
         </li>
