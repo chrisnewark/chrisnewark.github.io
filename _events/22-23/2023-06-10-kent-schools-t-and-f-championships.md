@@ -15,17 +15,14 @@ location: Medway Park
   </div>
   <div class="panel-body">
     <ul>
-        <li>
-            <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-Y7B.pdf">Year 7 Boys entries</a></li>
-            <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-Y7G.pdf">Year 7 Girls entries</a></li>
-            <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-JB.pdf">Junior Boys entries</a></li>
-            <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-JG.pdf">Junior Girls entries</a></li>
-            <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-IB.pdf">Inter Boys entries</a></li>
-            <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-IG.pdf">Inter Girls entries</a></li>
-            <li><a href="/files/events/22-23/2023-06-30-esaa-t-and-f-championships/ESAA-Standards-2023.docx">
-                ESAA Standards 2023
-            </a></li>
-        </li>
+        <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-Y7B.pdf">Year 7 Boys entries</a></li>
+        <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-Y7G.pdf">Year 7 Girls entries</a></li>
+        <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-JB.pdf">Junior Boys entries</a></li>
+        <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-JG.pdf">Junior Girls entries</a></li>
+        <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-IB.pdf">Inter Boys entries</a></li>
+        <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-IG.pdf">Inter Girls entries</a></li>
+        <li><a href="/files/events/22-23/2023-06-30-esaa-t-and-f-championships/ESAA-Standards-2023.docx">
+        ESAA Standards 2023</a></li>
     </ul>
   </div>
 </div>
