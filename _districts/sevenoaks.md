@@ -2,7 +2,7 @@
 layout: default
 title: Sevenoaks
 summer_manager: Mr. I. Presnell
-summer_manager-email: ip@newbeacon.org.uk
+summer_manager-email: Ijkl.presnell@btopenworld.com
 winter_manager: Mr. I. Presnell
 winter_manager-email: ip@newbeacon.org.uk
 ---

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ashford & The Weald
-summer_manager: Chris Nicholas
-summer_manager-email: cnicholas@thejohnwallisacademy.org
-winter_manager: Ms S. Green
+summer_manager: Sarah Green
+summer_manager-email: sgo@thesportstrust.org
+winter_manager: Sarah Green
 winter_manager-email: sgo@thesportstrust.org
 ---
 

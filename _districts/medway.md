@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Medway
-summer_manager: Mrs. K. Clarke
-summer_manager-email: kclarke@rmgs.org.uk
-winter_manager: Ms K Nott
+summer_manager: Kerrie Nott
+summer_manager-email: knott@rmet.org
+winter_manager: Kerrie Nott
 winter_manager-email: knott@rmet.org
 ---
 
