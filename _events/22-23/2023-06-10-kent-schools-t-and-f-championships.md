@@ -23,6 +23,7 @@ location: Medway Park
         <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-T&F-Championships-Entries-IG.pdf">Inter Girls entries</a></li>
         <li><a href="/files/events/22-23/2023-06-30-esaa-t-and-f-championships/ESAA-Standards-2023.docx">
         ESAA Standards 2023</a></li>
+        <li><a href="/files/events/22-23/2023-06-10-kent-schools-t-and-f-championships/KSAA-2023-Timetable.pdf">Event timetable</a></li>
     </ul>
   </div>
 </div>
