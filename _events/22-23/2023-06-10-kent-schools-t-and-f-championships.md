@@ -27,3 +27,5 @@ location: Medway Park
     </ul>
   </div>
 </div>
+
+Live results are avaiable at https://justiming.co.uk/liveresults/liveresults.html?meeting=ksaa10.6.23&page=schedule
