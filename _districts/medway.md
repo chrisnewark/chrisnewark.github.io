@@ -3,7 +3,7 @@ layout: default
 title: Medway
 summer_manager: Kerrie Nott
 summer_manager-email: knott@rmet.org
-winter_manager: Kerrie Nott
+winter_manager: Ms. K. Nott
 winter_manager-email: knott@rmet.org
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: Thanet
 summer_manager: Mr Steve King
 summer_manager-email: steve@eastkentcoaching.com
-winter_manager: Mr Steve King
+winter_manager: Mr. S. King
 winter_manager-email: steve@eastkentcoaching.com
 ---
 

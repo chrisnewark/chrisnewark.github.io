@@ -3,8 +3,8 @@ layout: default
 title: St. Augustines & Canterbury
 summer_manager: Sarah Newman
 summer_manager-email: snewman@langton.kent.sch.uk
-winter_manager: Mrs K. French
-winter_manager-email: kf@queenelizabeths.kent.sch.uk
+winter_manager: Ms. S. Merrick
+winter_manager-email: sian.merrick@swale.at
 ---
 
 ## Affiliated Schools

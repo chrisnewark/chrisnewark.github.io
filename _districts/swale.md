@@ -3,7 +3,7 @@ layout: default
 title: Swale
 summer_manager: Paul Churcher
 summer_manager-email: athletics@swalecombinedac.co.uk
-winter_manager: Paul Churcher
+winter_manager: Mr. P. Churcher
 winter_manager-email: athletics@swalecombinedac.co.uk
 ---
 
