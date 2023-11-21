@@ -7,7 +7,7 @@ location: Dartford
 
 ### Saturday 20th January 2024
 
-### Central Park, Dartford DA11JP
+### Central Park, Dartford DA11DJ
 
 ### Entries
 
