@@ -9,6 +9,17 @@ location: Dartford
 
 ### Central Park, Dartford DA11DJ
 
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title">Entries</h3>
+    </div>
+    <div class="panel-body">
+        <ul>
+            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/entries-v1.pdf">Entries</a></li>
+        </ul>
+    </div>
+</div>
+
 ### Entries
 
 Entry for this event is by a district competition or nomination by your school to the district co-ordinator.
