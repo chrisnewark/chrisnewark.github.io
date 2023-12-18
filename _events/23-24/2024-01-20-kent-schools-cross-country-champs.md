@@ -57,8 +57,14 @@ The above guidance about photography also applies to events not organised by KSA
 
 If this becomes necessary, all district co-ordinators will be informed and a notice will be put on the website by Thursday 18th January 2024. There is no reserve date available this year.
 
+### Refreshments
+
+Not available at this event.
+
 ### Course
 
-Details to be finalised. Map to follow ASAP
+<a href="/images/events/23-24/2024-01-20-kent-schools-cross-country-champs/course-map.jpg" target="_blank">
+    <img src="/images/events/23-24/2024-01-20-kent-schools-cross-country-champs/course-map.jpg" style="max-width:100%;"/>
+</a>
 
 The KSAA Committee would like to thank you for your co-operation.
