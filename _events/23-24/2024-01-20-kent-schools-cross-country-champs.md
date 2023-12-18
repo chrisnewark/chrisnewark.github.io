@@ -15,7 +15,7 @@ location: Dartford
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/entries-v1.pdf">Entries</a></li>
+            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/entries-v2.pdf">Entries</a></li>
         </ul>
     </div>
 </div>
