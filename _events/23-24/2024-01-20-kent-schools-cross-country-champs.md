@@ -11,11 +11,18 @@ location: Dartford
 
 <div class="panel panel-info">
     <div class="panel-heading">
-        <h3 class="panel-title">Entries</h3>
+        <h3 class="panel-title">Results</h3>
     </div>
     <div class="panel-body">
         <ul>
-            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/entries-v2.pdf">Entries</a></li>
+            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/KentSchoolsCrossCountryChampionships2024-Y7GirlsResults.pdf">Year 7 Girls</a></li>
+            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/KentSchoolsCrossCountryChampionships2024-Y7BoysResults.pdf">Year 7 Boys</a></li>
+            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/KentSchoolsCrossCountryChampionships2024-JuniorGirlsResults.pdf">Junior Girls</a></li>
+            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/KentSchoolsCrossCountryChampionships2024-JuniorBoysPROVISIONALResults.pdf">Junior Boys</a></li>
+            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/KentSchoolsCrossCountryChampionships2024-InterGirlsPROVISIONALResults.pdf">Intermediate Girls</a></li>
+            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/KentSchoolsCrossCountryChampionships2024-InterBoysResults.pdf">Intermediate Boys</a></li>
+            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/KentSchoolsCrossCountryChampionships2024-SeniorGirlsResults.pdf">Senior Girls</a></li>
+            <li><a href="/files/events/23-24/2024-01-20-kent-schools-cross-country-champs/KentSchoolsCrossCountryChampionships2024-SeniorBoysResults.pdf">Senior Boys</a></li>
         </ul>
     </div>
 </div>
